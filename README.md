@@ -1206,10 +1206,10 @@ if __name__=='__main__':
 ---
 
 - **base_sklearn.py**
-    ![image1.png](image1.png)
+    ![image1.png](image/image1.png)
   
 - **base_mannual.py**
-    ![image2.png](image2.png)
+    ![image2.png](image/image2.png)
   
 </details>
 
@@ -1219,10 +1219,10 @@ if __name__=='__main__':
 ---
   
 - **extend_sklearn.py**
-    ![image3.png](image3.png)
+    ![image3.png](image/image3.png)
   
 - **extend_mannual.py**
-    ![image4.png](image4.png)
+    ![image4.png](image/image4.png)
   
 </details>
 
